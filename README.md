@@ -18,7 +18,7 @@
 
 ```bash
 1- Faça o download do arquivo
-$ Arquivo: jogoChrome.zip
+$ Arquivo: programamacao.zip
 
 2- acessar o diretorio:
 $ - progamacao\trabalhofinalPROG\JogoChrome\JogoChrome\bin\Debug
